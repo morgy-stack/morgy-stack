@@ -1,28 +1,37 @@
 # Hi, I'm Morgs 👋
 
-**C# / WPF desktop developer** building clean, reliable Windows applications on
-modern .NET, with **2 years of hands-on Web3 / cryptocurrency** experience.
+**AI engineer** building practical LLM applications — chatbots, FAQ-grounded
+assistants, and API integrations — alongside solid **C# / WPF desktop** work on
+modern .NET and **2 years of hands-on Web3 / cryptocurrency** experience.
 
-I focus on well-architected desktop tools: MVVM, the Windows Registry, file
-system and Process APIs, and single-file self-contained publishing. I write
-readable, maintainable code and ship source in reviewable stages.
+My focus is AI that ships: assistants grounded in a real knowledge source,
+honest fallback when the answer isn't there, and clean, reviewable code. I pair
+that with strong Windows desktop fundamentals, so I can take an AI feature from
+prototype all the way to a packaged application.
 
 ### What I work with
-- **Languages / UI:** C#, .NET 8, WPF (MVVM), XAML
-- **Windows internals:** Registry, file system, Process APIs, packaging & single-file publish
-- **Web3:** 2 years working with wallets, browser wallet extensions, and blockchain tooling
-- **Tooling:** Git / GitHub, unit testing, clean project structure
+- **AI / LLM:** OpenAI API, prompt design, retrieval/FAQ grounding, chat UIs (Streamlit), Python
+- **Languages:** Python, C#, .NET 8
+- **Desktop / UI:** WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing
+- **Web3:** 2 years with wallets, browser wallet extensions, and blockchain tooling
+- **Tooling:** Git / GitHub, virtual environments, clean project structure, reviewable milestones
 
-### Featured project
-**[Installed Software Inventory](https://github.com/morgy-stack/installed-software-inventory)** — a read-only
-WPF/MVVM utility that inventories installed desktop software from the Windows
-uninstall registry keys (name, version, publisher, install date, running state),
-with live filtering, CSV export, and single-file publishing. A compact showcase
-of the exact skills above.
+### Featured projects
+
+**🤖 [Business AI Assistant](https://github.com/morgy-stack/ai-chatbot-portfolio-starter)** — a
+Streamlit chatbot that answers customer questions from a business FAQ using the
+OpenAI API. Chat-style interface, FAQ-grounded responses, and a clear fallback
+when the FAQ doesn't cover a question — so it never invents an answer. A compact,
+honest demo of building a useful LLM assistant end to end.
+
+**🖥️ [Installed Software Inventory](https://github.com/morgy-stack/installed-software-inventory)** — a
+read-only C# / WPF (MVVM) utility that inventories installed desktop software
+from the Windows uninstall registry keys, with live filtering, CSV export, and
+single-file publishing. Shows the desktop-engineering side of my work.
 
 ### How I work
 - Clear English communication and frequent, reviewable progress on GitHub.
-- Milestone-based delivery so you can see working source at each stage.
-- Read-only / least-privilege by default when a tool only needs to inspect, not modify.
+- AI features grounded in real data, with honest fallbacks instead of hallucinations.
+- Milestone-based delivery so you can see working code at each stage.
 
 📫 **Reach me:** morgananderson01.work@outlook.com · [github.com/morgy-stack](https://github.com/morgy-stack)
