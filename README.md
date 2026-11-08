@@ -1,4 +1,4 @@
-# Hi, I'm Morgs 👋
+# Hi 👋
 
 **AI engineer** building practical LLM applications — chatbots, FAQ-grounded
 assistants, and API integrations — alongside solid **C# / WPF desktop** work on
