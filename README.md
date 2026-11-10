@@ -11,7 +11,7 @@ prototype all the way to a packaged application.
 
 ### What I work with
 - **AI / LLM:** OpenAI API, prompt design, retrieval/FAQ grounding, chat UIs (Streamlit), Python
-- **Languages:** Python, C#, .NET 8, Go
+- **Languages:** Python, C#, .NET 8, Go etc
 - **Desktop / UI:** WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing
 - **Web3:** 2 years with wallets, browser wallet extensions, and blockchain tooling
 - **Tooling:** Git / GitHub, virtual environments, clean project structure, reviewable milestones
