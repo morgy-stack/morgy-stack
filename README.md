@@ -1,14 +1,14 @@
-# Hi 👋
+# Senior Software Engineer · AI, LLM & RAG Applications
 
-### AI engineer building LLM and RAG applications that answer from your real data
-
-I build practical AI products: **document Q&A and RAG systems, business chatbots, and API integrations**, from prototype to a working, deployable app. I also bring solid **C# / WPF desktop** experience on modern .NET and **2 years of hands-on Web3** work.
+Hi 👋 I've spent **6 years building software**, from **C# / WPF desktop apps** on modern .NET to **2 years of hands-on Web3** tooling. Now I focus on AI products that answer from your real data: **document Q&A and RAG systems, business chatbots, and API integrations**, from prototype to a working, deployable app.
 
 My focus is AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review. I pair that with strong Windows desktop fundamentals, so I can take an AI feature from prototype all the way to a packaged application.
 
 ---
 
 ### 🚀 Featured projects
+
+*Most of my client work from the past 6 years is private or under NDA. The projects below are public samples, and I'm happy to walk through past work on a call.*
 
 #### 📄 [DocuMind AI](https://github.com/morgy-stack/documind-ai): document Q&A with cited answers
 Upload PDF, DOCX or TXT files and ask questions in plain language. Every answer shows the exact source passages it used, with page numbers. A full-stack RAG app with a React / TypeScript frontend, a FastAPI + LangChain + Chroma backend, OpenAI models, automated tests, and one-command Docker setup. It includes an offline demo mode, so anyone can try it without an API key.
