@@ -20,6 +20,13 @@ prototype all the way to a packaged application.
 
 ### Featured projects
 
+**📄 [DocuMind AI](https://github.com/morgy-stack/documind-ai)** — a full-stack
+RAG assistant: upload PDF, DOCX, or TXT files, ask questions in plain language,
+and get answers with the cited source passages so every claim can be checked.
+FastAPI + LangChain + Chroma backend, React / TypeScript frontend, OpenAI for
+embeddings and answers, and one-command Docker setup. Runs in an offline demo
+mode with a sample document when no API key is set, so anyone can try it.
+
 **🤖 [Business AI Assistant](https://github.com/morgy-stack/ai-chatbot-portfolio-starter)** — a
 Streamlit chatbot that answers customer questions from a business FAQ using the
 OpenAI API. Chat-style interface, FAQ-grounded responses, and a clear fallback
