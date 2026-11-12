@@ -1,46 +1,61 @@
 # Hi 👋
 
-**AI engineer** building practical LLM applications — chatbots, FAQ-grounded
-assistants, and API integrations — alongside solid **C# / WPF desktop** work on
-modern .NET and **2 years of hands-on Web3 / cryptocurrency** experience.
+### AI engineer building LLM and RAG applications that answer from your real data
 
-My focus is AI that ships: assistants grounded in a real knowledge source,
-honest fallback when the answer isn't there, and clean, reviewable code. I pair
-that with strong Windows desktop fundamentals, so I can take an AI feature from
-prototype all the way to a packaged application.
+I build practical AI products: **document Q&A and RAG systems, business chatbots, and API integrations**, from prototype to a working, deployable app. I also bring solid **C# / WPF desktop** experience on modern .NET and **2 years of hands-on Web3** work.
 
-### What I work with
-- **AI / LLM /RAG:** OpenAI API, prompt design, retrieval/FAQ grounding, chat UIs (Streamlit), Python
-- **Languages:** Python, C#, .NET 8, Go etc
-- **Desktop / UI:** WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing
-- **Web3:** 2 years with wallets, browser wallet extensions, and blockchain tooling
-- **Tooling:** Git / GitHub, virtual environments, clean project structure, reviewable milestones
-- **Technology stack:** Frontend-React / Next.js, Backend-Python / FastAPI, AI models-OpenAI API / Claude API / Llama, 
-                        RAG Frameworks-LangChain / LlamaIndex, Database-PostgreSQL / Chroma / Pinecone, Deployment-Docker /                           AWS / Azure
+My focus is AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review.
 
-### Featured projects
+---
 
-**📄 [DocuMind AI](https://github.com/morgy-stack/documind-ai)** — a full-stack
-RAG assistant: upload PDF, DOCX, or TXT files, ask questions in plain language,
-and get answers with the cited source passages so every claim can be checked.
-FastAPI + LangChain + Chroma backend, React / TypeScript frontend, OpenAI for
-embeddings and answers, and one-command Docker setup. Runs in an offline demo
-mode with a sample document when no API key is set, so anyone can try it.
+### 🚀 Featured projects
 
-**🤖 [Business AI Assistant](https://github.com/morgy-stack/ai-chatbot-portfolio-starter)** — a
-Streamlit chatbot that answers customer questions from a business FAQ using the
-OpenAI API. Chat-style interface, FAQ-grounded responses, and a clear fallback
-when the FAQ doesn't cover a question — so it never invents an answer. A compact,
-honest demo of building a useful LLM assistant end to end.
+#### 📄 [DocuMind AI](https://github.com/morgy-stack/documind-ai): document Q&A with cited answers
+Upload PDF, DOCX or TXT files and ask questions in plain language. Every answer shows the exact source passages it used, with page numbers. A full-stack RAG app with a React / TypeScript frontend, a FastAPI + LangChain + Chroma backend, OpenAI models, automated tests, and one-command Docker setup. It includes an offline demo mode, so anyone can try it without an API key.
 
-**🖥️ [Installed Software Inventory](https://github.com/morgy-stack/installed-software-inventory)** — a
-read-only C# / WPF (MVVM) utility that inventories installed desktop software
-from the Windows uninstall registry keys, with live filtering, CSV export, and
-single-file publishing. Shows the desktop-engineering side of my work.
+`Python` `FastAPI` `React` `TypeScript` `LangChain` `ChromaDB` `OpenAI` `Docker`
 
-### How I work
-- Clear English communication and frequent, reviewable progress on GitHub.
-- AI features grounded in real data, with honest fallbacks instead of hallucinations.
-- Milestone-based delivery so you can see working code at each stage.
+#### 🤖 [Business AI Assistant](https://github.com/morgy-stack/ai-chatbot-portfolio-starter): FAQ-grounded customer chatbot
+A Streamlit chatbot that answers customer questions from a business FAQ using the OpenAI API. It has a chat-style interface and FAQ-grounded responses, and it falls back clearly when the FAQ doesn't cover a question, so it never invents an answer.
 
-📫 **Reach me:** morgananderson01.work@outlook.com · [github.com/morgy-stack](https://github.com/morgy-stack)
+`Python` `Streamlit` `OpenAI`
+
+#### 🖥️ [Installed Software Inventory](https://github.com/morgy-stack/installed-software-inventory): Windows desktop utility
+A read-only C# / WPF (MVVM) app that lists installed software from the Windows uninstall registry keys, with live filtering, CSV export and single-file publishing.
+
+`C#` `.NET 8` `WPF` `MVVM`
+
+---
+
+### 🛠️ What I can build for you
+
+- **Document assistants (RAG):** chat with your PDFs, manuals, policies or knowledge base, with cited sources
+- **Customer-support chatbots** grounded in your FAQ or product data
+- **LLM integrations** into existing apps and workflows using the OpenAI, Claude or open-source model APIs
+- **Full-stack AI web apps** with a React / Next.js frontend and a Python / FastAPI backend
+- **Windows desktop tools** in C# / WPF
+
+### 🧰 Tech stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python, TypeScript / JavaScript, C#, SQL, Go, PHP |
+| AI / LLM | OpenAI API, Claude API, Llama, prompt design |
+| RAG | LangChain, LlamaIndex, Chroma, Pinecone |
+| Backend | FastAPI, Laravel |
+| Frontend | React, Next.js, Streamlit |
+| Desktop | .NET 8, WPF (MVVM), XAML, Windows APIs |
+| Data | PostgreSQL, Chroma, Pinecone |
+| Deployment | Docker, AWS, Azure, Git / GitHub |
+| Web3 | Wallets, browser wallet extensions, blockchain tooling |
+
+### 🤝 How I work
+
+- **Clear communication** in English, with frequent progress updates on GitHub
+- **Milestone-based delivery**, so you see working code at every stage
+- **Grounded AI** with honest fallbacks instead of made-up answers
+- **Clean, documented, tested code** that's easy to hand over and maintain
+
+---
+
+📫 **Let's work together:** morgananderson01.work@outlook.com · [github.com/morgy-stack](https://github.com/morgy-stack)
