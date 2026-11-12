@@ -4,7 +4,7 @@
 
 I build practical AI products: **document Q&A and RAG systems, business chatbots, and API integrations**, from prototype to a working, deployable app. I also bring solid **C# / WPF desktop** experience on modern .NET and **2 years of hands-on Web3** work.
 
-My focus is AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review.
+My focus is AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review. I pair that with strong Windows desktop fundamentals, so I can take an AI feature from prototype all the way to a packaged application.
 
 ---
 
@@ -21,7 +21,7 @@ A Streamlit chatbot that answers customer questions from a business FAQ using th
 `Python` `Streamlit` `OpenAI`
 
 #### 🖥️ [Installed Software Inventory](https://github.com/morgy-stack/installed-software-inventory): Windows desktop utility
-A read-only C# / WPF (MVVM) app that lists installed software from the Windows uninstall registry keys, with live filtering, CSV export and single-file publishing.
+A read-only C# / WPF (MVVM) app that lists installed software from the Windows uninstall registry keys, with live filtering, CSV export and single-file publishing. It shows the desktop-engineering side of my work.
 
 `C#` `.NET 8` `WPF` `MVVM`
 
@@ -33,7 +33,7 @@ A read-only C# / WPF (MVVM) app that lists installed software from the Windows u
 - **Customer-support chatbots** grounded in your FAQ or product data
 - **LLM integrations** into existing apps and workflows using the OpenAI, Claude or open-source model APIs
 - **Full-stack AI web apps** with a React / Next.js frontend and a Python / FastAPI backend
-- **Windows desktop tools** in C# / WPF
+- **Windows desktop apps** in C# / WPF, including packaging an AI feature into a desktop application
 
 ### 🧰 Tech stack
 
@@ -44,7 +44,7 @@ A read-only C# / WPF (MVVM) app that lists installed software from the Windows u
 | RAG | LangChain, LlamaIndex, Chroma, Pinecone |
 | Backend | FastAPI, Laravel |
 | Frontend | React, Next.js, Streamlit |
-| Desktop | .NET 8, WPF (MVVM), XAML, Windows APIs |
+| Desktop | .NET 8, WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing |
 | Data | PostgreSQL, Chroma, Pinecone |
 | Deployment | Docker, AWS, Azure, Git / GitHub |
 | Web3 | Wallets, browser wallet extensions, blockchain tooling |
