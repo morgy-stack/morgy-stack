@@ -10,11 +10,13 @@ that with strong Windows desktop fundamentals, so I can take an AI feature from
 prototype all the way to a packaged application.
 
 ### What I work with
-- **AI / LLM:** OpenAI API, prompt design, retrieval/FAQ grounding, chat UIs (Streamlit), Python
+- **AI / LLM /RAG:** OpenAI API, prompt design, retrieval/FAQ grounding, chat UIs (Streamlit), Python
 - **Languages:** Python, C#, .NET 8, Go etc
 - **Desktop / UI:** WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing
 - **Web3:** 2 years with wallets, browser wallet extensions, and blockchain tooling
 - **Tooling:** Git / GitHub, virtual environments, clean project structure, reviewable milestones
+- **Technology stack:** Frontend-React / Next.js, Backend-Python / FastAPI, AI models-OpenAI API / Claude API / Llama, 
+                        RAG Frameworks-LangChain / LlamaIndex, Database-PostgreSQL / Chroma / Pinecone, Deployment-Docker /                           AWS / Azure
 
 ### Featured projects
 
