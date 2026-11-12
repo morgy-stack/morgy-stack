@@ -2,7 +2,7 @@
 
 Hi 👋 I've spent **6 years building software**, from **C# / WPF desktop apps** on modern .NET to **2 years of hands-on Web3** tooling. Now I focus on AI products that answer from your real data: **document Q&A and RAG systems, business chatbots, and API integrations**, from prototype to a working, deployable app.
 
-My focus is AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review. I pair that with strong Windows desktop fundamentals, so I can take an AI feature from prototype all the way to a packaged application.
+I build AI that ships and can be trusted: answers grounded in a real knowledge source, with sources shown, an honest "I don't know" when the answer isn't there, and clean code you can review. I pair that with strong Windows desktop fundamentals, so I can take an AI feature from prototype all the way to a packaged application.
 
 ---
 
