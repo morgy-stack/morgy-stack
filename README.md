@@ -25,6 +25,11 @@ A read-only C# / WPF (MVVM) app that lists installed software from the Windows u
 
 `C#` `.NET 8` `WPF` `MVVM`
 
+#### 🔬 [Fingerprint Consistency Kit](https://github.com/morgy-stack/fp-consistency-kit): browser Canvas & Web Audio diagnostics
+A dependency-free test kit with 28 checks for whether Canvas 2D, Web Audio and native functions give consistent answers across code paths. It also includes a script that compares a baseline run with a candidate and prints a ready-to-paste table. The [Brave root-cause report](https://github.com/morgy-stack/fp-consistency-kit/blob/main/docs/brave-farbling-report.md) traces each result to the exact brave-core C++ source lines, and found a real defect: `AudioBuffer.getChannelData()` scales stored samples in place, so every read compounds the change.
+
+`JavaScript` `Canvas 2D` `Web Audio` `Chromium / Blink source` `Python` `Node test runner`
+
 ---
 
 ### 🛠️ What I can build for you
@@ -34,6 +39,7 @@ A read-only C# / WPF (MVVM) app that lists installed software from the Windows u
 - **LLM integrations** into existing apps and workflows using the OpenAI, Claude or open-source model APIs
 - **Full-stack AI web apps** with a React / Next.js frontend and a Python / FastAPI backend
 - **Windows desktop apps** in C# / WPF, including packaging an AI feature into a desktop application
+- **Browser diagnostics and regression tests:** reproducible test pages, baseline comparisons and root-cause reports for Canvas, Web Audio and other web APIs
 
 ### 🧰 Tech stack
 
@@ -46,6 +52,7 @@ A read-only C# / WPF (MVVM) app that lists installed software from the Windows u
 | Frontend | React, Next.js, Streamlit |
 | Desktop | .NET 8, WPF (MVVM), XAML, Windows Registry, file system & Process APIs, single-file publishing |
 | Data | PostgreSQL, Chroma, Pinecone |
+| Browser / Testing | Canvas 2D, Web Audio, Web Workers, OffscreenCanvas, Chromium / Blink source analysis, Node test runner |
 | Deployment | Docker, AWS, Azure, Git / GitHub |
 | Web3 | Wallets, browser wallet extensions, blockchain tooling |
 
